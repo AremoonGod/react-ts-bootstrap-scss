@@ -1,4 +1,3 @@
-import "./App.css";
 import Home from "./Home";
 import Navbar from "./Navbar";
 import 'bootstrap/dist/css/bootstrap.css';
